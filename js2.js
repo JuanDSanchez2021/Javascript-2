@@ -1,5 +1,6 @@
 let apps = ['win10','vscode','oracle']
 
+
 let computadora = {
     "marca":"",
     "Discoduro":"1tb",
